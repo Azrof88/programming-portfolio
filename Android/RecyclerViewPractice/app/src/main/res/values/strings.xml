@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="contact_number">Number</string>
+    <string name="contact_name">Name</string>
+    <string name="image_des">Image</string>
+    <string name="rec_btn">Recycler button</string>
+    <string name="dialog_heading">Add Contact</string>
+    <string name="dialog_action">Add</string>
+    <string name="dialog_number">Enter your number</string>
+    <string name="dialog_name">Enter Your Name</string>
+    <string name="dialog_update">Update</string>
+</resources>

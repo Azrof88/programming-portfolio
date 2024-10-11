@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TODOLIST</string>
+    <string name="floatingButton">ADD</string>
+    <string name="dataInsertTitle">Enter your title</string>
+    <string name="dataInsertDes">Enter your description</string>
+    <string name="dataInsertbutton">Enter</string>
+
+</resources>

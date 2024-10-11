@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TO DO LIST</string>
+    <string name="select_from_my_note">SELECT * FROM  MY NOTE</string>
+
+</resources>
