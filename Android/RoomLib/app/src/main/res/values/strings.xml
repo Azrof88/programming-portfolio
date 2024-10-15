@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">RoomLib</string>
-    <string name="floatingButton">ADD</string>
-    <string name="dataInsertTitle">Enter your title</string>
-    <string name="dataInsertDes">Enter your description</string>
-    <string name="dataInsertButton">Enter</string>
-</resources>
