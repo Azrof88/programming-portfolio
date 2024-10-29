@@ -1,0 +1,4 @@
+Depositor Name: Shuchi
+Account Type: Savings
+Account Number: 2106088
+Balance: 100000.0
